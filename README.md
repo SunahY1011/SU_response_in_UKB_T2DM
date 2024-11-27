@@ -1,1 +1,1 @@
-# SU_response_in_UKB_T2DM
+# SU response in UKB T2DM
